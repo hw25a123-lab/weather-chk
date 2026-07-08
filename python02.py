@@ -65,4 +65,4 @@ fig.update_layout(
 output_html = "temperature.html"
 fig.write_html(output_html, include_plotlyjs="cdn")
 print(f"Saved interactive plot to {output_html}")
-# テスト用のコメント追加
+# テスト用のコメント
